@@ -49,12 +49,10 @@ Homework 2, Advanced Image Restoration and Quality Enhancement, EE, KAIST, Fall 
 	- Read './report/HW2_20184187_DinhVu_Report.pdf' for the detail explaination
 
 6. Reference
-[1] Gabriel Eilertsen, Joel Kronander, Gyorgy Denes, Rafal K. Mantiuk and Jonas Unger, “HDR image reconstruction from a single exposure using deep CNNs”,
-		ACM Transactions on Graphics, volume 36, no. 6, article 178, October 2017.
 
-[2] Francesco Banterle, Alessandro Artusi, Kurt Debattisa and Alan Chalmers, “Advanced High Dynamic Range Imaging 2nd Edition”,
-		AK Peters (CRC Press), July 2017.
+[1] Gabriel Eilertsen, Joel Kronander, Gyorgy Denes, Rafal K. Mantiuk and Jonas Unger, “HDR image reconstruction from a single exposure using deep CNNs”, ACM Transactions on Graphics, volume 36, no. 6, article 178, October 2017.
 
-[3] Rafal Matiuk, Kil Joong Kim, Allan G. Rempel and Wolfgang Heidrich, “HDR-VDP-2: A calibrated visual metric for visibility and quality predictions in all luminance conditions”,
-		ACM Transactions on Graphics, volume 30, issue 4, article no. 40, July 2011.
+[2] Francesco Banterle, Alessandro Artusi, Kurt Debattisa and Alan Chalmers, “Advanced High Dynamic Range Imaging 2nd Edition”, AK Peters (CRC Press), July 2017.
+
+[3] Rafal Matiuk, Kil Joong Kim, Allan G. Rempel and Wolfgang Heidrich, “HDR-VDP-2: A calibrated visual metric for visibility and quality predictions in all luminance conditions”, ACM Transactions on Graphics, volume 30, issue 4, article no. 40, July 2011.
 
