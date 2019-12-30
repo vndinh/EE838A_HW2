@@ -13,10 +13,10 @@ Homework 2, Advanced Image Restoration and Quality Enhancement, EE, KAIST, Fall 
 2. Validation
 	- If you want to use my best model, delete all files in the foldler './model', then copy all files in the folder './report/best_model' to './model'
 	- If you want to use different validation dataset:
-		> delete all files in two folder './data/valid/HDR' and './data/valid/LDR'
-		> copy the new validation HDR images to './data/valid/HDR'
-		> copy the new validation LDR images, which must have format PNG, to './data/valid/LDR'
-		> all the new validation images must be renamed following format Cxx_HDR.hdr and Cxx_LDR.png, where xx is the index of each image. For example: C16_HDR.hdr, C16_LDR.png
+		+ delete all files in two folder './data/valid/HDR' and './data/valid/LDR'
+		+ copy the new validation HDR images to './data/valid/HDR'
+		+ copy the new validation LDR images, which must have format PNG, to './data/valid/LDR'
+		+ all the new validation images must be renamed following format Cxx_HDR.hdr and Cxx_LDR.png, where xx is the index of each image. For example: C16_HDR.hdr, C16_LDR.png
 
 	- In the folder './source', open Command Prompt if using Window or Terminal if using Linux
 	- Type: python main.py --mode=valid
